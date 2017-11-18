@@ -15,5 +15,10 @@ class Solution
         {
             Console.Write($"{num} ");
         }
+
+   /*
+foreach(a in arr) {
+Console.Write("{0}{1}",a," ");
+}
     }
 }
