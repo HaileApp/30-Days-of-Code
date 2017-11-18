@@ -20,5 +20,6 @@ class Solution
 foreach(a in arr) {
 Console.Write("{0}{1}",a," ");
 }
+*/
     }
 }
